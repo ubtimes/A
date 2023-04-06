@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: custom
-  theme_night:
+  theme_day: dracula
+  theme_night: dracula
   font: rose
   font_size: L
 
